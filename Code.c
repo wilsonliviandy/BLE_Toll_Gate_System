@@ -10,8 +10,8 @@
 // Wi-Fi and Firebase configuration
 #define WIFI_SSID "hotspot"
 #define WIFI_PASSWORD "blablabla"
-#define API_KEY "AIzaSyDCr8brbhoxqbOtwgJnuxgdi53ShK4KY84"
-#define DATABASE_URL "https://ble-wb-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY "XXX"
+#define DATABASE_URL "DB_LINK"
 #define USER_EMAIL "USER_EMAIL"
 #define USER_PASSWORD "USER_PASSWORD"
 #define BUILTIN_LED 10
